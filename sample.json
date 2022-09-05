@@ -1,0 +1,145 @@
+{
+    "categories": [
+        "business",
+        "entertainment",
+        "general",
+        "health",
+        "science",
+        "sports",
+        "technology"
+    ],
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Taylor Hatmaker",
+            "title": "Google lets the Parler app back into the Play Store",
+            "description": "Truth Social isn’t allowed in Google’s app store yet, but another ostensibly anything-goes social network in the same orbit just made a comeback there. Parler, a social app designed to appeal to pro-Trump social media users turned off of mainstream platforms,…",
+            "url": "https://techcrunch.com/2022/09/02/parler-google-play-store-return/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-1147862535.jpg?w=600",
+            "publishedAt": "2022-09-03T00:33:06Z",
+            "content": "Truth Social isn’t allowed in Google’s app store yet, but another ostensibly anything-goes social network in the same orbit just made a comeback there. Parler, a social app designed to appeal to pro-… [+1996 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kirsten Korosec",
+            "title": "In leaked memo, Aurora CEO weighs spinouts, layoffs and acquisitions against sale to big tech",
+            "description": "Aurora has a \"cash runway\" that will allow it to continue operations through mid-2024, according to its second-quarter letter to shareholders.",
+            "url": "https://techcrunch.com/2022/09/02/in-leaked-memo-aurora-ceo-weighs-spinouts-layoffs-and-acquisitions-against-sale-to-big-tech/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/IMG_2495.jpg?w=533",
+            "publishedAt": "2022-09-02T23:16:08Z",
+            "content": "The chief executive of autonomous vehicle developer Aurora Innovation presented a swath of cost-cutting and cash-generating options to its board, ranging from a hiring freeze and spinning out assets … [+7264 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Harri Weber",
+            "title": "California EV owners asked to curb charging ahead of travel holiday",
+            "description": "Can California reliably power millions of additional electric vehicles, given the state's recent history of summer blackouts.",
+            "url": "https://techcrunch.com/2022/09/02/california-electric-vehicles-limit-charging-labor-day-weekend-heat-wave/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1242880664.jpg?w=600",
+            "publishedAt": "2022-09-02T22:50:48Z",
+            "content": "As a brutal heat wave cooks the West in the run-up to Labor Day, California’s power grid manager is calling on electric vehicle owners to avoid charging at peak times. The request is part of a broade… [+3115 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Christine Hall, Haje Jan Kamps",
+            "title": "Daily Crunch: Nvidia chips become collateral damage in new US sanctions targeting China",
+            "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+            "url": "https://techcrunch.com/2022/09/02/daily-crunch-nvidia-chips-become-collateral-damage-in-new-us-sanctions-targeting-china/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1272953815-nvidia.jpg?w=599",
+            "publishedAt": "2022-09-02T22:05:34Z",
+            "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nHappy Friday! For those of you excited to see us in your inbox for … [+2790 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Natasha Mascarenhas",
+            "title": "This startup wants to scale anonymous mental health support - starting with founders",
+            "description": "Humans Anonymous is a social audio platform that connects people with similar identities (teacher, single parent) to create an anonymous space to freely share experiences",
+            "url": "https://techcrunch.com/2022/09/02/this-startup-wants-to-scale-anonymous-mental-health-support-starting-with-founders/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/06/GettyImages-1316393446.jpg?w=600",
+            "publishedAt": "2022-09-02T19:00:08Z",
+            "content": "Nate Tepper first went to Alcoholics Anonymous (AA), an international program dedicated to helping people recover from alcoholism with a 12-step program, in the heart of the COVID-19 pandemic. He did… [+4820 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Lauren Simonds",
+            "title": "2-for-1 sale on TC Sessions: Crypto passes!",
+            "description": "What’s better than saving some coin in your wallet? Saving coin AND getting something for free! Book your TC Sessions: Crypto general admission Launch pass today and get a second pass for free! One general admission Launch pass typically costs $199, but our L…",
+            "url": "https://techcrunch.com/2022/09/02/2-for-1-sale-on-tc-sessions-crypto-passes/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/TC22_Sessions_Crypto_Wordpress_Header_Image_1200x628-1.png?w=764",
+            "publishedAt": "2022-09-02T18:25:37Z",
+            "content": "What’s better than saving some coin in your wallet? Saving coin AND getting something for free! Book your TC Sessions: Crypto general admission Launch pass today and get a second pass for free!\r\nOne … [+1675 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kyle Wiggers, Amanda Silberling",
+            "title": "AI is getting better at generating porn. We might not be prepared for the consequences.",
+            "description": "AI image generators like Stable Diffusion are powering new websites that generate highly customize porn. The trend could have far-reaching consequences.",
+            "url": "https://techcrunch.com/2022/09/02/ai-is-getting-better-at-generating-porn-we-might-not-be-prepared-for-the-consequences/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/09/ai-generated-porn.jpg?w=711",
+            "publishedAt": "2022-09-02T18:10:20Z",
+            "content": "A red-headed woman stands on the moon, her face obscured. Her naked body looks like it belongs on a poster youd find on a hormonal teenagers bedroom wall that is, until you reach her torso, where thr… [+8657 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Devin Coldewey",
+            "title": "Going back to school? The Switch is your destination for RPG-powered procrastination",
+            "description": "As the new school year starts, a fresh cohort of students will soon be hard at work finding ways to avoid writing papers and watching lectures they slept through, and just generally finding ways to waste the hours as effectively as possible. Fortunately the S…",
+            "url": "https://techcrunch.com/2022/09/02/going-back-to-school-the-switch-is-your-destination-for-rpg-powered-procrastination/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/10/nintendo-switch-oled-1.jpg?w=600",
+            "publishedAt": "2022-09-02T18:02:12Z",
+            "content": "As the new school year starts, a fresh cohort of students will soon be hard at work finding ways to avoid writing papers and watching lectures they slept through, and just generally finding ways to w… [+8254 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Alex Wilhelm, Anna Heim",
+            "title": "Tracking cybersecurity investment during the venture downturn",
+            "description": "Is cybersecurity venture capital deal activity holding up better than other sectors this deep into Q3?",
+            "url": "https://techcrunch.com/2022/09/02/tracking-cybersecurity-investment-during-the-venture-downturn/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/05/NSussman_Techcrunch_Exchange_v3-ORNG.jpg?w=533",
+            "publishedAt": "2022-09-02T18:00:10Z",
+            "content": "Yesterdays tech stock rout was not evenly distributed; some companies and technology sectors fared better than others. The same can be said about tech sectors in 2022 more generally. For example, the… [+804 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Haje Jan Kamps",
+            "title": "This Gen Z founder is pitching hundreds of investors... via Venmo",
+            "description": "So, is this the next big way to reach out to investors? Just be aware of the first impression you're making; it may not be as positive as you think.",
+            "url": "https://techcrunch.com/2022/09/02/pitching-via-venmo/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-700713299-1.jpg?w=599",
+            "publishedAt": "2022-09-02T17:45:36Z",
+            "content": "My phone buzzes as I get a text from a friend who’s a partner at a VC firm. It’s a screenshot of a Venmo notification that just came in. “My 2 cents on why you should invest in my company,” reads the… [+3377 chars]"
+        }
+    ]
+}
