@@ -23,13 +23,12 @@ export default class News extends Component {
       loading: false,
       page: 1,
     };
-    document.title = `NewsMonkey - ${
-      this.props.category.charAt(0).toUpperCase() + this.props.category.slice(1)
-    }`;
+    document.title = `NewsMonkey - ${this.props.category.charAt(0).toUpperCase() + this.props.category.slice(1)
+      }`;
   }
 
   async updateNews() {
-    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=3d271f60c35646a69586f58d4157034c&page=${this.state.page}&pageSize=${this.props.size}`;
+    const url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=${this.props.apiKey}&page=${this.state.page}&pageSize=${this.props.size}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let res = await data.json();
