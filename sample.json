@@ -1,13 +1,4 @@
 {
-    "categories": [
-        "business",
-        "entertainment",
-        "general",
-        "health",
-        "science",
-        "sports",
-        "technology"
-    ],
     "status": "ok",
     "totalResults": 10,
     "articles": [

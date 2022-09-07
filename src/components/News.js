@@ -43,12 +43,12 @@ export default class News extends Component {
   }
 
   handlePrevClick = async () => {
-    this.setState({ page: this.state.page - 1 });
+    await this.setState({ page: this.state.page - 1 });
     this.updateNews();
   };
 
   handleNextClick = async () => {
-    this.setState({ page: this.state.page + 1 });
+    await this.setState({ page: this.state.page + 1 });
     this.updateNews();
   };
 
